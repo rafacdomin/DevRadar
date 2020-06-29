@@ -23,10 +23,6 @@ Utilização de API do Github e artifícios de localização com a utilização 
 
 O DevRadar é um projeto que visa facilitar a busca por desenvolvedores que residem próximo a você. A aplicação detecta sua localização geográfica a partir do Google Maps e então mostra todos desenvolvedores próximos no raio de 100KM, utilizando a API do GitHub para puxar informações do perfil da pessoa. No Mobile, a aplicação exibe o mapa aonde é possível pesquisar, por tecnologias, os devs nesse raio de distância
 
-## Getting started
-
-<h1 align="center"><img align="center" src="./static/web.gif" alt="Omnistack 10 Web" width="700"></img></h1>
-
 ### Instalação - Backend
 Clone o projeto em seu computador. Para instalar as dependências e executar o **Servidor** (modo desenvolvimento) execute:
 ```bash
